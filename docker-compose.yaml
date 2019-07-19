@@ -1,4 +1,4 @@
 version: '3'
 services:
-  angular:
+  angular-cicd:
     image: "icsaksregistry.azurecr.io/angular1"
